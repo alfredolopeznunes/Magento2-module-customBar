@@ -24,7 +24,7 @@ Example:
 
 - Run your magento deployment procedure (setup:upgrade, setup:di:compile) Configurtion.
 
--In Magento admin go to LESITE CUSTOMBAR > General Configuración to Enable or disable the module.
+- In Magento admin go to LESITE CUSTOMBAR > General Configuración to Enable or disable the module.
 
 - You must assign a client group for the user (When creating a user your default group is general).
 
