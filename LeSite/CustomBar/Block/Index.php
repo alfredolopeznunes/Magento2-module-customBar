@@ -20,17 +20,11 @@ class Index extends \Magento\Framework\View\Element\Template
       parent::__construct($context, $data);
   }
 
-  /**
-  * @return boolean
-  */
-  /* public function getCustomerIsLoggedIn()
-  {
-    return (bool)$this->httpContext->getValue(\Magento\Customer\Model\Context::CONTEXT_AUTH);
-  } */
 
   /**
   * @return boolean
   */
+  
   public function isModuleEnabled()
   {
     return $this->_dataHelper->isModuleEnabled();
