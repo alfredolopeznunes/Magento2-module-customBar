@@ -2,6 +2,8 @@
 LeSite Custom bar module in topnav
 Magento module that will display a small bar at the top of the page.
 
+https://magento.alfredolopeznunes.online/
+
 Composer Installation
 Go to your magento root path
 
